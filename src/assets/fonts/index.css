@@ -1,0 +1,56 @@
+/* urbanist-regular - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("./Urbanist-Regular.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-500 - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("./Urbanist-Medium.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-600 - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("./Urbanist-SemiBold.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-700 - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("./Urbanist-Bold.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-italic - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: italic;
+  font-weight: 400;
+  src: local(""), url("./Urbanist-Italic.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-500italic - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: italic;
+  font-weight: 500;
+  src: local(""), url("./Urbanist-MediumItalic.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-600italic - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: italic;
+  font-weight: 600;
+  src: local(""), url("./Urbanist-SemiBoldItalic.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* urbanist-700italic - latin */
+@font-face {
+  font-family: "Urbanist";
+  font-style: italic;
+  font-weight: 700;
+  src: local(""), url("./Urbanist-BoldItalic.ttf") format("ttf"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
